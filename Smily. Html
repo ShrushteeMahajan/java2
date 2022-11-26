@@ -1,0 +1,8 @@
+Smiley.html
+<html>  
+<body>  
+<applet code ="Smiley" width=600 height=600>
+</applet>
+</body>  
+</html> 
+
